@@ -1,10 +1,12 @@
 # AI Performance Playground - Sonar+D Hacklab Resources
 
-Inspired by and adapted from the [Timbre Resources webpage](https://github.com/comma-lab/timbre-resources), this is a living document of resources to support the development of hacks & prototypes for the [AI Performance Playground organised by Sónar+D 2025](https://sonar.es/en/programme/sonar-d/open-call-hacklab) with the goal of exploring and deepening the use of machine learning tools, AI, and other related technologies with a critical perspective. Collaboratively and through the exchange of skills and knowledge, the aim is to learn to critically apply new tools in musical and performative practices, and what surrounds them. 
+Inspired by and adapted from the [Timbre Resources webpage](https://github.com/comma-lab/timbre-resources), this is a living document of resources to support the development of hacks & prototypes for the [AI Performance Playground organised by Sónar+D 2025](https://sonar.es/en/programme/sonar-d/open-call-hacklab) with the goal of exploring and deepening the use of machine learning tools, AI, and other related technologies with a critical perspective. Collaboratively and through the exchange of skills and knowledge, the aim is to learn to critically apply new tools in musical and performative practices, and what surrounds them. The resources focus on sound with a section related to visuals.
 
 ## User-friendly systems
 
 [Audiostellar](https://audiostellar.xyz) - AI-powered experimental sampler
+
+[Wekinator](http://www.wekinator.org) - Machine learning for building new musical instruments, gestural game controllers, computer vision or computer listening systems, among others.
 
 ## Plug-ins
 
@@ -16,7 +18,7 @@ Inspired by and adapted from the [Timbre Resources webpage](https://github.com/c
 
 [FluCoMa](https://www.flucoma.org/) | The FluCoMa software consists of objects for decomposing and describing audio, and for manipulating collections of sonic data by querying, matching, learning and transforming. The complete toolkit is available for Max, SuperCollider and Pure Data, and the decomposition / description tools are available for the command line.
 
-[nn~](https://acids-ircam.github.io/nn_tilde/) | At its core, nn~ is a translation layer between Max/MSP or PureData and the [libtorch c++ interface for deep learning](https://pytorch.org/). Alone, nn~ is like an empty shell, and requires pretrained models to operate. Using nn~ for PureData, RAVE can be used in realtime on embedded platforms, such as Bela or Raspberry Pi 4.
+[nn~](https://acids-ircam.github.io/nn_tilde/) | At its core, nn~ is a translation layer between Max/MSP or PureData and the [libtorch c++ interface for deep learning](https://pytorch.org/). Alone, nn~ is like an empty shell, and requires pretrained models to operate. 
 
 [neutone.space](https://neutone.space/) | A platform where researchers can share real-time AI audio processing models for creators to experiment with transformative AI audio instruments.
 
@@ -34,18 +36,30 @@ You can find a few [vschaos2](https://github.com/acids-ircam/vschaos2) models [h
 
 [Nsynth](https://magenta.tensorflow.org/datasets/nsynth) | 305,979 musical notes, each with a unique pitch, timbre, and envelope.
 
-[Freesound](https://freesound.org/) | a collaborative collection of 618,244 free sounds
+[Freesound](https://freesound.org/) | a collaborative collection of 618,244 free sounds.
 
-[OpenMIC-2018](https://zenodo.org/records/1432913#.W6dPeJNKjOR) | 20000 audio clips with annotations of the presence or absence of 20 instrument classes
+[OpenMIC-2018](https://zenodo.org/records/1432913#.W6dPeJNKjOR) | 20000 audio clips with annotations of the presence or absence of 20 instrument classes.
 
-[URMP](http://labsites.rochester.edu/air/projects/URMP.html) | 44 pieces of orchestral recordings with note-level and frame-level annotations
+[URMP](http://labsites.rochester.edu/air/projects/URMP.html) | 44 pieces of orchestral recordings with note-level and frame-level annotations.
 
-[MIS](https://theremin.music.uiowa.edu/MIS.html) | single instrument notes with different playing techniques
+[MIS](https://theremin.music.uiowa.edu/MIS.html) | single instrument notes with different playing techniques.
 
-[Medley-solos-DB](https://zenodo.org/records/2582103) | an instrument recognition dataset, audio extracted from MedleyDB and solosDB
+[Medley-solos-DB](https://zenodo.org/records/2582103) | an instrument recognition dataset, audio extracted from MedleyDB and solosDB.
 
 ## Hardware
 
+Using nn~ for PureData, RAVE can be used in realtime on embedded platforms, such as Bela or Raspberry Pi 4.
+
 ## Miscellaneous
+
+[Hugging Face](https://huggingface.co) - a resourceful collaborative platform with models, datasets, and applications.
+
+[Cursor](https://www.cursor.com) - AI code editor.
+
+## Visual
+
+[Stable Diffusion](https://github.com/Stability-AI/generative-models) - a deep learning, text-to-image model based on diffusion techniques.
+
+[Figma AI](https://www.figma.com/ai/) - a visualisation tool for idea representation.
 
 ## Readings and talks
