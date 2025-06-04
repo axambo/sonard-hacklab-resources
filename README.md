@@ -96,7 +96,9 @@ Using nn~ for PureData, RAVE can be used in realtime on embedded platforms, such
 
 [Talk] Lauren Klein (April 24, 2024) ["Data Feminism for AI"](https://youtu.be/p9vbNA5_t44) (1:16:07)
 
-[Paper] Lauren Klein, Catherine D'Ignazio (2024) ["Data Feminism for AI"](https://facctconference.org/static/papers24/facct24-7.pdf) (FAccT ’24, June 03–06, 2024, Rio de Janeiro, Brazil)
+[Article] Lauren Klein, Catherine D'Ignazio (2024) ["Data Feminism for AI"](https://facctconference.org/static/papers24/facct24-7.pdf) (FAccT ’24, June 03–06, 2024, Rio de Janeiro, Brazil). DOI: https://doi.org/10.1145/3630106.3658543
+
+[Article] Fabio Morreale (2021) [Where Does the Buck Stop? Ethical and Political Issues with AI in Music Creation](https://transactions.ismir.net/articles/86/files/submission/proof/86-1-2717-1-10-20210720.pdf). Transactions of the International Society for Music Information Retrieval, 4(1), pp. 105–113. DOI: https://doi.org/10.5334/tismir.86
 
 ## Performances
 
