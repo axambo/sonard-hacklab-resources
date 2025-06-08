@@ -4,17 +4,21 @@ Inspired by and adapted from the [Timbre Resources webpage](https://github.com/c
 
 ## User-friendly systems
 
-[Audiostellar](https://audiostellar.xyz) - AI-powered experimental sampler
+[Audiostellar](https://audiostellar.xyz) | AI-powered experimental sampler
 
-[Wekinator](http://www.wekinator.org) - Machine learning for building new musical instruments, gestural game controllers, computer vision or computer listening systems, among others.
+[Wekinator](http://www.wekinator.org) | Machine learning for building new musical instruments, gestural game controllers, computer vision or computer listening systems, among others.
 
-[Stable Audio SPA](https://stableaudio.com) - a web app that generates 3 minute songs in 10 seconds.
+[Stable Audio SPA](https://stableaudio.com) | a web app that generates 3 minute songs in 10 seconds.
+
+[diffusion.cam](https://www.diffusion.cam) | an artificial social network that allows you to use the camera to transform your photograph into text, which gets turned back into an image using an AI diffusion model: img2text2img.
 
 ## Plug-ins
 
-[Concatenator](https://datamindaudio.ai/concatenator-v1/) (DataMind Audio) - AI-powered audio mosaicing plug-in.
+[Concatenator](https://datamindaudio.ai/concatenator-v1/) (DataMind Audio) | AI-powered audio mosaicing plug-in.
 
-[Morpho](https://neutone.ai/morpho) (Neutone) - a realtime tone morphing plugin powered by advanced machine learning technology.  
+[Morpho](https://neutone.ai/morpho) (Neutone) | a realtime tone morphing plugin powered by advanced machine learning technology.  
+
+[Dicy2](https://forum.ircam.fr/projects/detail/dicy2/) |  a package for Max and a plugin for Ableton Live implementing interactive agents using machine-learning to generate musical sequences that can be integrated into musical situations.
 
 ## Machine learning and AI
 
@@ -24,13 +28,15 @@ Inspired by and adapted from the [Timbre Resources webpage](https://github.com/c
 
 ## Generative AI
 
-[Stable Audio Open](https://stable-audio-open.com) - an open source model optimised for generating short audio samples, sound effects and production elements using text prompts.
+[Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open) | an open source text-to-audio model optimised for generating short audio samples, sound effects and production elements using text prompts.
 
-[MusicFX DJ](https://labs.google/musicfx) (Google) - 
+[MusicFX DJ](https://labs.google/musicfx) (Google) | an extension of Google Music FX, a generative AI tool. In DJ Mode, you can create constantly evolving and generative soundscapes by inputting text prompts.
 
 ### Generative AI - Models
 
 Stable Audio Open model available on [huggingface](https://huggingface.co/stabilityai/stable-audio-open-1.0).
+
+[Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools) | Generative models for conditional audio generation.
 
 ## Neural sound synthesis
 
@@ -38,7 +44,7 @@ Stable Audio Open model available on [huggingface](https://huggingface.co/stabil
 
 [neutone.space](https://neutone.space/) | A platform where researchers can share real-time AI audio processing models for creators to experiment with transformative AI audio instruments.
 
-[vschaos2](https://github.com/acids-ircam/vschaos2) - a vintage neural audio synthesis package.
+[vschaos2](https://github.com/acids-ircam/vschaos2) | a vintage neural audio synthesis package.
 
 ### Neural sound synthesis - Models
 
@@ -49,6 +55,14 @@ You can find a few [RAVE](https://github.com/acids-ircam/rave) models [here](htt
 You can find a few [vschaos2](https://github.com/acids-ircam/vschaos2) models [here](https://www.dropbox.com/sh/avdeiza7c6bn2of/AAAGZsnRo9ZVMa0iFhouCBL-a?dl=0).
 
 ## Livecoding
+
+[Brunzit](https://github.com/g-roma/Brunzit) | a C++ application for experimenting with flocks of sonic agents through live coding where agents traverse a data terrain, a 2D visualization which can be created from a grey scale image or an audio file.
+
+[Mob](https://github.com/g-roma/Mob) | a SuperCollider program that allows you to live-code a group of agents animated in a 2D surface, where each agent controls a synth. 
+
+[Fuzz](https://github.com/tidalcycles/tidal-fuzz-completer) | Autocoder agent producing Tidal patterns and atom-auto suggestion package.
+
+[MIRLCa](https://github.com/axambo/MIRLCa) | A set of SuperCollider extensions for live coding using MIR and machine learning.
 
 ## Datasets
 
@@ -74,21 +88,23 @@ Using nn~ for PureData, RAVE can be used in realtime on embedded platforms, such
 
 ## Other software, platforms, resources (miscellaneous)
 
-[Hugging Face](https://huggingface.co) - a resourceful collaborative platform with models, datasets, and applications.
+[Hugging Face](https://huggingface.co) | a resourceful collaborative platform with models, datasets, and applications.
 
-[Cursor](https://www.cursor.com) - AI code editor.
+[Cursor](https://www.cursor.com) | AI code editor.
+
+[MIMIC](https://mimicproject.com) | a creative coding platform (courses, tutorials, code...) ranging from graphics, music, machine learning and stuff from Tensorflow.JS.
 
 ## Visual (miscellaneous)
 
-[Stable Diffusion](https://github.com/Stability-AI/generative-models) - a deep learning, text-to-image model based on diffusion techniques.
+[Stable Diffusion](https://github.com/Stability-AI/generative-models) | a deep learning, text-to-image model based on diffusion techniques.
 
-[Figma AI](https://www.figma.com/ai/) - a visualisation tool for idea representation.
+[Figma AI](https://www.figma.com/ai/) | a visualisation tool for idea representation.
 
-[ComfyUI](https://www.comfy.org) - generate video, images, 3D, audio with AI.
+[ComfyUI](https://www.comfy.org) | generate video, images, 3D, audio with AI.
 
-[Luma AI](https://www.luma.ai) - software enabling the creation of realistic 3D images, videos, and game assets using iPhone or web.
+[Luma AI](https://www.luma.ai) | software enabling the creation of realistic 3D images, videos, and game assets using iPhone or web.
 
-[Luma AI API](https://docs.lumalabs.ai/docs/api) - Luma has made its NeRF and meshing models accessible via their API, offering developers advanced 3D modeling.
+[Luma AI API](https://docs.lumalabs.ai/docs/api) | Luma has made its NeRF and meshing models accessible via their API, offering developers advanced 3D modeling.
 
 ## Readings and talks
 
@@ -100,5 +116,43 @@ Using nn~ for PureData, RAVE can be used in realtime on embedded platforms, such
 
 [Article] Fabio Morreale (2021) [Where Does the Buck Stop? Ethical and Political Issues with AI in Music Creation](https://transactions.ismir.net/articles/86/files/submission/proof/86-1-2717-1-10-20210720.pdf). Transactions of the International Society for Music Information Retrieval, 4(1), pp. 105–113. DOI: https://doi.org/10.5334/tismir.86
 
+[Article] Karolina Jawad and Anna Xambó (2023) [Feminist HCI and narratives of design semantics in DIY music hardware](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2023.1345124/full). Frontiers in Communication, Volume 8 - 2023. DOI: https://doi.org/10.3389/fcomm.2023.1345124
+
 ## Performances
+
+[Raw-Green-Rust perform Regulatory Capture by Owen Green | Dialogues Festival, Edinburgh College of Art, on the 7th of July 2021](https://youtu.be/8I7Nsjtvvyg)
+
+[Alice Eldrige + Chris Kiefer: Feedback Cell plays FeedbackFeedforward | Dialogues Festival, Edinburgh College of Art, on the 9th of July 2021](https://youtu.be/c03_84_P7PQ)
+
+[Owen Green: Race to the Bottom | Huddersfield Contemporary Music Festival, on the 21st of November 2019](https://youtu.be/zeOm9w3ZJVc)
+
+[Lauren Sarah Hayes: Moon via Spirit | Huddersfield Contemporary Music Festival, on the 21st of November 2019](https://youtu.be/BzSRs_7S9cg)
+
+[Rodrigo Constanzo: Kaizo Snare | Huddersfield Contemporary Music Festival, on the 21st of November 2019](https://youtu.be/MTWklm1oXWQ)
+
+[Leafcutter John: Line Crossing | Huddersfield Contemporary Music Festival, on the 21st of November 2019](https://youtu.be/hYaZq1JCTQo)
+
+[Gerard Roma: Big fry-up | Dialogues Festival, Edinburgh College of Art, on the 7th of July 202](https://youtu.be/MV4_S2fUyEY)
+
+[AI and Music - Holly Herndon presents Holly+ feat. Maria Arnal, Tarta Relena and Matthew Dryhurst](https://youtu.be/Wk6T2WmhuJw)
+
+[Jennifer Walshe: A Late Anthology Live | LIVE +RAIN Film Festival 2023](https://youtu.be/q_lknRtHWvQ)
+
+[Nao Tokui: Emergent Rhythm | LIVE +RAIN Film Festival 2023](https://youtu.be/z6z4lXnDJ18)
+
+[Albert Barqué-Duran: Slowly fading into data | LIVE +RAIN Film Festival 2023](https://youtu.be/Sjxej5ypzOc)
+
+[Anna Xambó: Ceci n'est pas une usine | LIVE +RAIN Film Festival 2023](https://youtu.be/IQHcSbkJK5k)
+
+[Nicholas Evans, Alba González, i Pablo Gorostiaga: Finding Light in the Distortion (MTG-UPF) | LIVE +RAIN Film Festival 2023](https://youtu.be/Q2f2PGTLDXo)
+
+[Performing Critical AI I: Feedback Cell featuring Ollie Bown | Cafe Oto, London
+November 27, 2022](https://youtu.be/UE2FqFqsm8Y?list=PL2aeDefey_GZNZ7jRnbKOI72Fu_KwDqoC)
+
+[Performing Critical AI I: 4 Boxes at Cafe OTO (Anna Xambó) | Cafe Oto, London
+November 27, 2022](https://youtu.be/eGSjD-K3bg4?list=PL2aeDefey_GZNZ7jRnbKOI72Fu_KwDqoC)
+
+[Performing Critical AI I: Improvisation with/against Machine Learners (Owen Green, Pierre Alexandre Tremblay) | Cafe Oto, London
+November 27, 2022](https://youtu.be/rMH-H1OuDqs?list=PL2aeDefey_GZNZ7jRnbKOI72Fu_KwDqoC)
+
 
