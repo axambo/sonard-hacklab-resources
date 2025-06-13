@@ -20,6 +20,8 @@ Inspired by and adapted from the [Timbre Resources webpage](https://github.com/c
 
 [Dicy2](https://forum.ircam.fr/projects/detail/dicy2/) |  a package for Max and a plugin for Ableton Live implementing interactive agents using machine-learning to generate musical sequences that can be integrated into musical situations.
 
+[Pitchshop](https://www.rullyshabara.id/pitchstop) | upload your own sound file and let the machine clone and manipulate the pitch.
+
 ## Machine learning and AI
 
 [SP-Tools](https://rodrigoconstanzo.com/sp-tools/) | A set of machine learning tools that are optimised for low latency and real-time performance. The tools can be used with [Sensory Percussion sensors](http://sunhou.se/), ordinary drum triggers, or any audio input.
@@ -93,6 +95,10 @@ Using nn~ for PureData, RAVE can be used in realtime on embedded platforms, such
 [Cursor](https://www.cursor.com) | AI code editor.
 
 [MIMIC](https://mimicproject.com) | a creative coding platform (courses, tutorials, code...) ranging from graphics, music, machine learning and stuff from Tensorflow.JS.
+
+* MIMIC examples:
+  * [Classification](https://mimicproject.com/code/6dfd19a3-ce91-c16f-b251-3f87e3c78e2f) - pose as input, controlling a classifier
+  * [Regression](https://mimicproject.com/code/98d88675-bf57-3f21-02fd-90111394cb24) - Pose as input, controlling audio parameters using regression
 
 ## Visual (miscellaneous)
 
